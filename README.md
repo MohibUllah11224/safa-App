@@ -2,7 +2,7 @@
 
 **Last updated:** November 19, 2025
 
-This Privacy Policy explains how **Safa App** ("the App") collects, uses, and protects your information. The App is developed and maintained by **Mohib Khan** ("we", "us", "our").
+This Privacy Policy explains how **Safa App** ("the App") collects, uses, and protects your information. The App is developed and maintained by **Mohib Ullah** ("we", "us", "our").
 
 ---
 
@@ -79,5 +79,5 @@ We may update this Privacy Policy from time to time. Updated versions will be po
 ## 9. Contact Us
 If you have any questions or concerns about this Privacy Policy, you may contact us at:
 
-**Email:** mohib@example.com  
-**Developer:** Mohib Khan
+**Email:** khanahmed11224@gmail.com.com  
+**Developer:** Mohib Ullah
