@@ -11,8 +11,9 @@ This Privacy Policy explains how **Safa App** ("the App") collects, uses, and pr
 ### a. Account Information
 When you create an account, we collect:
 - Email address
+- Password
 - Username
-- Phone number
+
 
 This information is used for authentication and to uniquely identify users within the App.
 
